@@ -1,0 +1,16 @@
+{
+  "slug": "tavuk-sote",
+  "title": "Tavuk Sote",
+  "thumb": "https://picsum.photos/seed/tavuksote/600/400",
+  "category": "Ana Yemek",
+  "area": "Türk",
+  "instructions": "Tavukları küp doğra, soğan ve biberle kavur. Domates ve baharat ekle, pişir.",
+  "ingredients": [
+    { "name": "Tavuk göğsü", "measure": "500 g" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Yeşil biber", "measure": "2 adet" },
+    { "name": "Domates", "measure": "2 adet" },
+    { "name": "Zeytinyağı", "measure": "2 yemek kaşığı" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
