@@ -1,0 +1,16 @@
+{
+  "slug": "firinda-makarna",
+  "title": "Fırında Makarna",
+  "thumb": "https://picsum.photos/seed/firindamakarna/600/400",
+  "category": "Ana Yemek",
+  "area": "Türk",
+  "instructions": "Makarnayı haşla, sos ve peynirle karıştırıp fırında pişir.",
+  "ingredients": [
+    { "name": "Makarna", "measure": "1 paket" },
+    { "name": "Beyaz peynir", "measure": "100 g" },
+    { "name": "Süt", "measure": "1 su bardağı" },
+    { "name": "Yumurta", "measure": "2 adet" },
+    { "name": "Tereyağı", "measure": "2 yemek kaşığı" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
