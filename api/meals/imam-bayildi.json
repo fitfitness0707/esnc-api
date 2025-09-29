@@ -1,0 +1,16 @@
+{
+  "slug": "imam-bayildi",
+  "title": "İmam Bayıldı",
+  "thumb": "https://picsum.photos/seed/imambayildi/600/400",
+  "category": "Ana Yemek",
+  "area": "Türk",
+  "instructions": "Patlıcanları yarıp kızart. İç harcı hazırlayıp doldur, fırında pişir.",
+  "ingredients": [
+    { "name": "Patlıcan", "measure": "4 adet" },
+    { "name": "Soğan", "measure": "2 adet" },
+    { "name": "Domates", "measure": "2 adet" },
+    { "name": "Sarımsak", "measure": "3 diş" },
+    { "name": "Zeytinyağı", "measure": "Yeterince" },
+    { "name": "Tuz, Şeker", "measure": "Damaktan" }
+  ]
+}
