@@ -1,0 +1,16 @@
+{
+  "slug": "karniyarik",
+  "title": "Karnıyarık",
+  "thumb": "https://picsum.photos/seed/karniyarik/600/400",
+  "category": "Ana Yemek",
+  "area": "Türk",
+  "instructions": "Patlıcanları közle. İçini kıymalı harçla doldur. Fırında pişir.",
+  "ingredients": [
+    { "name": "Patlıcan", "measure": "4 adet" },
+    { "name": "Kıyma", "measure": "250 g" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Domates", "measure": "2 adet" },
+    { "name": "Biber", "measure": "2 adet" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
