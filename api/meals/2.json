@@ -1,16 +1,14 @@
 {
-  "id": 1,
-  "title": "Menemen",
-  "thumb": "https://picsum.photos/seed/menemen/600/400",
-  "category": "Kahvaltı",
+  "id": 2,
+  "title": "Sütlaç",
+  "thumb": "https://picsum.photos/seed/sutlac/600/400",
+  "category": "Tatlı",
   "area": "Türk",
-  "instructions": "Soğanı kavur, biber ekle. Domates ekle ve suyunu çektir. Yumurta kır, hafifçe karıştır. Tuz ve baharatlarla servis et.",
+  "instructions": "Pirinçleri haşla. Süt ve şekeri ekleyerek kısık ateşte kıvam alana kadar pişir. Kaselere alıp soğut, üzerine tarçın serpip servis et.",
   "ingredients": [
-    { "name": "Yumurta", "measure": "3 adet" },
-    { "name": "Domates", "measure": "2 adet" },
-    { "name": "Yeşil biber", "measure": "2 adet" },
-    { "name": "Soğan", "measure": "1 küçük" },
-    { "name": "Zeytinyağı", "measure": "2 yemek kaşığı" },
-    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+    { "name": "Pirinç", "measure": "1/2 su bardağı" },
+    { "name": "Süt", "measure": "1 litre" },
+    { "name": "Toz şeker", "measure": "1/2 su bardağı" },
+    { "name": "Tarçın", "measure": "Üzeri için" }
   ]
 }
