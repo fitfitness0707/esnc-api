@@ -1,0 +1,16 @@
+{
+  "slug": "kisir",
+  "title": "Kısır",
+  "thumb": "https://picsum.photos/seed/kisir/600/400",
+  "category": "Salata",
+  "area": "Türk",
+  "instructions": "Bulguru sıcak suyla şişir. Salça, soğan, domates, maydanoz ve baharatlarla karıştır.",
+  "ingredients": [
+    { "name": "İnce bulgur", "measure": "2 su bardağı" },
+    { "name": "Domates salçası", "measure": "1 yemek kaşığı" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Domates", "measure": "1 adet" },
+    { "name": "Maydanoz", "measure": "1/2 demet" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
