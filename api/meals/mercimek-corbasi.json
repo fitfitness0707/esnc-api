@@ -1,0 +1,15 @@
+{
+  "slug": "mercimek-corbasi",
+  "title": "Mercimek Çorbası",
+  "thumb": "https://picsum.photos/seed/mercimekcorbasi/600/400",
+  "category": "Çorba",
+  "area": "Türk",
+  "instructions": "Soğanı ve havucu kavur. Mercimekleri ekle, su koy ve haşla. Blenderdan geçir, tuz ve baharat ekle.",
+  "ingredients": [
+    { "name": "Kırmızı mercimek", "measure": "1 su bardağı" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Havuç", "measure": "1 adet" },
+    { "name": "Su", "measure": "6 su bardağı" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
