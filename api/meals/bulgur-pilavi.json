@@ -1,0 +1,16 @@
+{
+  "slug": "bulgur-pilavi",
+  "title": "Bulgur Pilavı",
+  "thumb": "https://picsum.photos/seed/bulgurpilavi/600/400",
+  "category": "Pilav",
+  "area": "Türk",
+  "instructions": "Soğan ve biberi kavur. Bulguru ekle, suyla birlikte pişir.",
+  "ingredients": [
+    { "name": "Bulgur", "measure": "2 su bardağı" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Yeşil biber", "measure": "1 adet" },
+    { "name": "Domates salçası", "measure": "1 yemek kaşığı" },
+    { "name": "Su", "measure": "2,5 su bardağı" },
+    { "name": "Tuz", "measure": "Damaktan" }
+  ]
+}
