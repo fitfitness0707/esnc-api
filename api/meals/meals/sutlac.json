@@ -1,0 +1,14 @@
+{
+  "slug": "sutlac",
+  "title": "Sütlaç",
+  "thumb": "https://picsum.photos/seed/sutlac/600/400",
+  "category": "Tatlı",
+  "area": "Türk",
+  "instructions": "Pirinçleri haşla. Süt ve şekeri ekle, kısık ateşte pişir. Kaselere döküp soğut, üzerine tarçın serp.",
+  "ingredients": [
+    { "name": "Pirinç", "measure": "1/2 su bardağı" },
+    { "name": "Süt", "measure": "1 litre" },
+    { "name": "Toz şeker", "measure": "1/2 su bardağı" },
+    { "name": "Tarçın", "measure": "Üzeri için" }
+  ]
+}
