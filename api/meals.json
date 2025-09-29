@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Menemen", "thumb": "https://picsum.photos/seed/menemen/600/400", "category": "Kahvaltı" },
+  { "id": 2, "title": "Sütlaç",  "thumb": "https://picsum.photos/seed/sutlac/600/400",  "category": "Tatlı" }
+]
