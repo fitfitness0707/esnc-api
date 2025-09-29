@@ -1,0 +1,16 @@
+{
+  "slug": "ezogelin-corbasi",
+  "title": "Ezogelin Çorbası",
+  "thumb": "https://picsum.photos/seed/ezogelin/600/400",
+  "category": "Çorba",
+  "area": "Türk",
+  "instructions": "Mercimek, bulgur ve pirinci suda haşla. Soğanı kavur, salça ve baharat ekle. Birleştirip kaynat.",
+  "ingredients": [
+    { "name": "Kırmızı mercimek", "measure": "1 çay bardağı" },
+    { "name": "Bulgur", "measure": "1 çay bardağı" },
+    { "name": "Pirinç", "measure": "1/2 çay bardağı" },
+    { "name": "Soğan", "measure": "1 adet" },
+    { "name": "Domates salçası", "measure": "1 yemek kaşığı" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
