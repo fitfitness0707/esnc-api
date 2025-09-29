@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "title": "Menemen",
+  "thumb": "https://picsum.photos/seed/menemen/600/400",
+  "category": "Kahvaltı",
+  "area": "Türk",
+  "instructions": "Soğanı kavur, biber ekle. Domates ekle ve suyunu çektir. Yumurta kır, hafifçe karıştır. Tuz ve baharatlarla servis et.",
+  "ingredients": [
+    { "name": "Yumurta", "measure": "3 adet" },
+    { "name": "Domates", "measure": "2 adet" },
+    { "name": "Yeşil biber", "measure": "2 adet" },
+    { "name": "Soğan", "measure": "1 küçük" },
+    { "name": "Zeytinyağı", "measure": "2 yemek kaşığı" },
+    { "name": "Tuz, Karabiber", "measure": "Damaktan" }
+  ]
+}
